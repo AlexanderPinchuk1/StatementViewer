@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatementViewer", "StatementViewer\StatementViewer.csproj", "{312C0D76-4E32-43B4-83D6-6C0D2D196EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312C0D76-4E32-43B4-83D6-6C0D2D196EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312C0D76-4E32-43B4-83D6-6C0D2D196EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312C0D76-4E32-43B4-83D6-6C0D2D196EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312C0D76-4E32-43B4-83D6-6C0D2D196EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5CEF0FA-AB4D-4EEE-9BB9-CE65375FD554}
+	EndGlobalSection
+EndGlobal
